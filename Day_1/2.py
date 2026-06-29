@@ -4,4 +4,5 @@ def q2_multiplication_table():
     print(f"\nMultiplication table of {n}:")
     for i in range(1, 11):
         print(f"{n} x {i} = {n * i}")
+# This is the second program
  
