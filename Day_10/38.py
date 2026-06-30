@@ -1,0 +1,6 @@
+# ---------------- Q38: Print reverse pyramid ----------------
+print("\n--- Q38: Reverse pyramid ---")
+rows = 5
+for i in range(rows, 0, -1):
+    print(" " * (rows - i) + "* " * i)
+ 
